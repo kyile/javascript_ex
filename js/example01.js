@@ -1,1 +1,1 @@
-console.log("hello java Script world!");
+console.log("hello javaScript world!");
